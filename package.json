@@ -1,0 +1,22 @@
+{
+  "name": "slither-bots",
+  "version": "1.0.0",
+  "description": "edited by Genius & test114514 (200bots.ga)",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^1.4.3",
+    "colors": "^1.1.2",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^2.1.0",
+    "socket.io": "^2.0.3",
+    "socks": "^1.1.10",
+    "socks-proxy-agent": "^3.0.1",
+    "ws": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "genius",
+  "license": "ISC"
+}
